@@ -1,0 +1,15 @@
+# Python cache
+__pycache__/
+
+# Environment files
+.env
+
+# Dependencies
+node_modules/
+
+# Logs
+*.log
+
+# Virtual environments
+venv/
+.venv/
